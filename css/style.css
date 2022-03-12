@@ -122,12 +122,14 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .ajax-section {
   margin: 70px 0 20px;
+
 }
 
 .ajax-section .cities {
   display: grid;
   grid-gap: 32px 20px;
   grid-template-columns: repeat(4, 1fr);
+
 }
 
 .ajax-section .city {
